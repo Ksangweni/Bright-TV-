@@ -30,7 +30,7 @@ Categorisation: Channels were grouped into buckets such as Sports (e.g., ICC Cri
 ## Strategic Insights Derived
 Content Drivers: High-impact sporting events like the ICC Cricket World Cup 2011 are major drivers for long-duration viewing sessions
 .
-Audience Diversity: The platform successfully reaches a broad age range, with confirmed users as young as 9 and as old as 79 [Registry Data].
+Audience Diversity: The platform successfully reaches a broad age range, with confirmed users as young as 9 and as old as 79.
 Geographic Hotspots: Concentrated activity is visible in provinces such as Gauteng and Western Cape
 .
 
